@@ -5,6 +5,7 @@ Module 5 lessons
 Part 1
 
 ## 
+Part 1
 In part 1 I created a visual dataframe showing Total Rides, Total Drivers, Total Fares$, Average Fare$ per Ride, and Average Fare$ per Driver across the three city types (Urban, Suburban, and Rural).
 As one might expect this showed that Urban has much more volume, and many more drivers, but also has lower average fare amounts.  While one could have expected the average Urban far per ride and per driver to be low and that average fare per ride and driver were quite high for rural cities further analysis could be done by integrating time.
 
